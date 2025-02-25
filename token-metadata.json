@@ -1,24 +1,23 @@
 {
-    "name": "MEATcoin",
-    "symbol": "MEAT",
-    "uri": "https://raw.githubusercontent.com/MeatSafeMurdrer/lambasted-porpous/main/token-metadata.json",
-    "seller_fee_basis_points": 0,
-    "fee_recipient": "5V3Z4QAp5moTgo3heqs2mW3ZJ9g1uVCvuQMVa6cdsbsP",
-    "image": "https://i.imgur.com/1dUJ9Yn.png",
-    "properties": {
-      "category": "image",
-      "files": [
-        {
-          "uri": "https://i.imgur.com/1dUJ9Yn.png",
-          "type": "image/png"
-        }
-      ],
-      "creators": [
-        {
-          "address": "5V3Z4QAp5moTgo3heqs2mW3ZJ9g1uVCvuQMVa6cdsbsP",
-          "share": 100
-        }
-      ]
-    }
+  "name": "MEATcoin",
+  "symbol": "MEAT",
+  "uri": "https://raw.githubusercontent.com/MeatSafeMurdrer/lambasted-porpous/main/token-metadata.json",
+  "seller_fee_basis_points": 0,
+  "fee_recipient": "5V3Z4QAp5moTgo3heqs2mW3ZJ9g1uVCvuQMVa6cdsbsP",
+  "image": "https://i.imgur.com/1dUJ9Yn.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://i.imgur.com/1dUJ9Yn.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5V3Z4QAp5moTgo3heqs2mW3ZJ9g1uVCvuQMVa6cdsbsP",
+        "share": 100
+      }
+    ]
   }
-  
+}
